@@ -1,0 +1,17 @@
+{
+	strings:
+	{
+	"DIFFICULTY_BAR_0": "<color=#00e673>Easy</color>",
+	"DIFFICULTY_BAR_1": "<color=#59b300>Easy</color>",
+	"DIFFICULTY_BAR_2": "<color=#4d9900>Easy</color>",
+	"DIFFICULTY_BAR_3": "<color=#cccc00>I said easy.</color>",
+	"DIFFICULTY_BAR_4": "<i>It's not that easy :(</i>",
+	"DIFFICULTY_BAR_5": "<color=#e62e00>OH GOD</color>",
+	"DIFFICULTY_BAR_6": "<color=#ff471a>OH FUCK</color>",
+	"DIFFICULTY_BAR_7": "<color=#ff3300><b>I'M WATCHING YOU</b></color>",
+	"DIFFICULTY_BAR_8": "<b>I'MBOUTTOBASS</b>",
+	"DIFFICULTY_BAR_9": "Crazy? I was crazy once,\n they locked me in a room,\n a rubber room,\n a rubber room filled with RATS!\n Rats make me go crazzzyyyyy... \n",
+	"STAGE_COUNT_FORMAT" : "<style=cSub>My bank account</style> -{0}<style=cSub> zł</style>",
+	"AMBIENT_LEVEL_DISPLAY_FORMAT" : "<style=cSub>Cancer's Stage:</style> {0}",
+	}
+}
