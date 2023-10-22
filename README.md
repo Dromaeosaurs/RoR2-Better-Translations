@@ -2,7 +2,7 @@
 
 This is the 5th or 6th iteration of my english translations for RoR2, previous ones were either:
  
--Completlly rewriten
+-Completely  rewriten
 
  -Deleted/Corrupted (my HDD died not too long ago :( )
 
