@@ -196,6 +196,6 @@
 		"PET_FROG" : "{0} pet the frog.",
 		"PET_FROG_2P" : "You pet the frog.",
 
-		"VOIDCAMP_COMPLETE" : "<style=cWorldEvent>The Void Seed collapses.</style>",
+		"VOIDCAMP_COMPLETE" : "<style=cWorldEvent><b>The Ancient Cum Pod</b> collapses.</style>",
 	}
 }

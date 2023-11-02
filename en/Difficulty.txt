@@ -11,7 +11,7 @@
 	"DIFFICULTY_BAR_7": "<color=#ff3300><b>I'M WATCHING YOU</b></color>",
 	"DIFFICULTY_BAR_8": "<b>I'MBOUTTOBASS</b>",
 	"DIFFICULTY_BAR_9": "Crazy? I was crazy once,\n they locked me in a room,\n a rubber room,\n a rubber room filled with RATS!\n Rats make me go crazzzyyyyy... \n",
-	"STAGE_COUNT_FORMAT" : "<style=cSub>My bank account</style> -{0}<style=cSub> zł</style>",
+	"STAGE_COUNT_FORMAT" : "<style=cSub>My bank account</style> -{0}<style=cSub> ₫</style>",
 	"AMBIENT_LEVEL_DISPLAY_FORMAT" : "<style=cSub>Cancer's Stage:</style> {0}",
 	}
 }

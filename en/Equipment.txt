@@ -16,8 +16,8 @@
 	"EQUIPMENT_METEOR_DESC": "<style=cIsDamage>Rain meteors</style> from the sky, damaging ALL characters for <style=cIsDamage>600% damage per blast</style>. Lasts 20 seconds.",
 	"EQUIPMENT_METEOR_LORE" : "What a... peculiar piece of the stars that serendipity has brought us. I'm sure you can make more. The ratios are simple. It should be quite fun.",
 
-	"EQUIPMENT_SOULJAR_NAME": "Jar of Souls",
-	"EQUIPMENT_SOULJAR_PICKUP": "Summon a ghost for every enemy on the screen.",
+	"EQUIPMENT_SOULJAR_NAME": "Jar of Bravery",
+	"EQUIPMENT_SOULJAR_PICKUP": "Temporary gangbang!",
 	"EQUIPMENT_SOULJAR_DESC": "Duplicate every enemy as a ghost to fight on your side for 15 seconds.",
 
 	"EQUIPMENT_BLACKHOLE_NAME": "Pocket Black hole",
@@ -60,7 +60,7 @@
 	"EQUIPMENT_GOLDGAT_LORE": "Order: The Crowdfunder\r\nTracking Number: 783*****\r\nEstimated Delivery: 05/09/2056\r\nShipping Method: Standard\r\nShipping Address: 206 29th Ave, High Chariot, Mercury \r\nShipping Details:\r\n\r\nThe wealthy overlords on Primas V went to great measures to break the will of the lower class. They kept the threat of injury and death constant, which helped to keep their servants in check, but this was only half of their method. \r\n\r\nTo further highlight the vast differences in status, their extravagant weapons were fueled by currency - they were literally throwing money at them.\r\n\r\nI don\u2019t have to tell you how that turned out for them. It\u2019s why my client is in hiding now and has to pawn these things off. He thanks you for your patronage in these trying times.\r\n",
 	
 	"EQUIPMENT_PASSIVEHEALING_NAME": "Gnarled Woodsprite",
-	"EQUIPMENT_PASSIVEHEALING_PICKUP":"Heal over timefor 1,5%HP/s",
+	"EQUIPMENT_PASSIVEHEALING_PICKUP":"Heal over timefor <style=cIsHealing>1,5% HP</style>/s",
 	"EQUIPMENT_PASSIVEHEALING_DESC":"Gain a Woodsprite follower that heals for <style=cIsHealing>1.5% of your maximum health/second</style>. Can be sent to an ally to heal them for <style=cIsHealing>10% of their maximum health</style>.",
 	"EQUIPMENT_PASSIVEHEALING_LORE":"Order: Gnarled Woodsprite\r\nTracking Number: 447*****\r\nEstimated Delivery: 01/16/2056\r\nShipping Method: High Priority/Biological\r\nShipping Address: Happy Hope Children's Hospital, Waleton, Earth\r\nShipping Details:\r\n\r\nDr. Coleas's studies on the benefits of sprite-assisted care have paved the way for hospitals across Earth. These little guys take every opportunity to radiate amongst the injured and sick. \r\n\r\nWe've seen significant decreases in the recovery times of almost all patients. While effective, I'm not certain if this aura effect is transmitting anything at all. It might all be placebo; people could just be reacting to the spectacle of a cute lifeform putting on a light show in front of them.\r\n\r\nEither way, it's good to have them around, and I think they enjoy being around us too. I'm lucky enough to get to keep one in my home... for study purposes, of course. It may seem a little crass, but shipping these little guys in from off world does not seem to impact their attitude in the slightest.\r\n",
 	
@@ -77,10 +77,10 @@
     "EQUIPMENT_AFFIXGOLD_DESC": "",
 
 	"EQUIPMENT_AFFIXWHITE_NAME": "POV",
-    "EQUIPMENT_AFFIXWHITE_PICKUP": "U tried to make a history joke around normal people",
+    "EQUIPMENT_AFFIXWHITE_PICKUP": "You tried to make a history joke around normal people",
     "EQUIPMENT_AFFIXWHITE_DESC": "",
 
-	"EQUIPMENT_AFFIXPOISON_NAME": "N'kuhana's Retort",
+	"EQUIPMENT_AFFIXPOISON_NAME": "Toxicity",
     "EQUIPMENT_AFFIXPOISON_PICKUP": "Become the aspect of ̶t̶̶w̶̶i̶̶t̶̶t̶̶e̶̶r̶ X.",
     "EQUIPMENT_AFFIXPOISON_DESC": "",
 
@@ -112,7 +112,7 @@
 	"EQUIPMENT_CRIPPLEWARD_LORE": "\u201CThis relic tells a story... But it is not a fairy tale. It\u2019s a tragedy. A story of betrayal, regret, and sorrow. A story of two.\u201D\r\n\r\n\u201CUh\u2026 okay\u2026? How the hell do you know that?\u201D\r\n",
 
 	"EQUIPMENT_GATEWAY_NAME" : "Eccentric Vase",
-	"EQUIPMENT_GATEWAY_PICKUP" : "OP",
+	"EQUIPMENT_GATEWAY_PICKUP" : "I fucking <color=#e60000><b>hate</b></color> pillars...",
 	"EQUIPMENT_GATEWAY_DESC" : "Create a <style=cIsUtility>quantum tunnel</style> of up to <style=cIsUtility>1000m</style> in length. Lasts 30 seconds.",
 	"EQUIPMENT_GATEWAY_LORE": "\u201COne of Robins\u2019 most loved acts was the pitcher skit. \r\n\r\nThe skit would start off with Robins, playing the part of a flower keeper, getting ready to fill a vase with soil. He would pour, pour, and pour, but the vase wouldn\u2019t seem to get any fuller \u2013 as if the soil was disappearing infinitely. \r\n\r\nRobins would inspect the vase, looking at it up and down, but there weren\u2019t any holes in the thing. Finally, at the climax, Robins would hold it upside down over his head \u2013 upon which all of the soil poured in would land directly on his face.\u201D\r\n\r\n- Biography of Charles Robins\r\n",
 
@@ -122,7 +122,7 @@
 	"EQUIPMENT_TONIC_LORE": "\u201CReality is whatever the mind decides it to be. Take a sip of the drink, and the mind becomes malleable. From there, you can shape it into whatever form you please... and the world around you follows your example.\u201D\r\n\r\n- Sigibold the Drunken\r\n",
 
 	"EQUIPMENT_QUESTVOLATILEBATTERY_NAME" : "Funi Box of Death",
-	"EQUIPMENT_QUESTVOLATILEBATTERY_PICKUP" : "<color=#FF7F7F>Kamikaze time!</color>",
+	"EQUIPMENT_QUESTVOLATILEBATTERY_PICKUP" : "<color=#FF7F7F><b>Kamikaze time!</b></color>",
 
 	"EQUIPMENT_CLEANSE_NAME" : "Blast Shower",
 	"EQUIPMENT_CLEANSE_PICKUP" : "I'm not gonna name this <color=#EDC126>''Golden Shower''</color> you sick fuck.",
@@ -130,12 +130,12 @@
 	"EQUIPMENT_CLEANSE_LORE" : "Order: Blast Shower\r\nTracking Number: 152*****\r\nEstimated Delivery: 06/19/2056\r\nShipping Method: Standard\r\nShipping Address: Frontier Gate, Outer Edge Zone\r\nShipping Details:\r\n\r\nOuter Edge thanks you for your rewards redemption! It takes a real explorer to make their living on the frontier. As you undoubtedly know, REAL exploring is REAL messy. This portable unit will equip you with the modern convenience of taking a shower anywhere at any time!\r\n\r\nDisclaimer: Wear your protective suit while cleansing. Do not use product directly on skin. Blast Shower is only rated for B-class toxins and C-class foreign organisms. This company does not accept any responsibility for incidents as a result of an incomplete cleansing.\r\n",
 
 	"EQUIPMENT_FIREBALLDASH_NAME" : "Volcanic Egg",
-	"EQUIPMENT_FIREBALLDASH_PICKUP" : "Stolen from a Fire Wyvern!",
+	"EQUIPMENT_FIREBALLDASH_PICKUP" : "Stolen straight from a <color=#ff6600>Fire Wyvern!</color>",
 	"EQUIPMENT_FIREBALLDASH_DESC" : "Turn into a <style=cIsDamage>draconic fireball</style> for <style=cIsDamage>5</style> seconds. Deal <style=cIsDamage>500% damage</style> on impact. Detonates at the end for <style=cIsDamage>800% damage</style>.",
 	"EQUIPMENT_FIREBALLDASH_LORE": "Order: Europan Great Dragon Egg\r\nTracking Number: 00****************\r\nEstimated Delivery: 10\/04\/2056\r\nShipping Method:  Biological \/ Fragile\r\nShipping Address: Xenobiology Wildlife Reserve, Titan\r\nShipping Details: \r\n\r\nMake sure to keep this thing nice and hot while it incubates. I know it may seem plenty hot already, but Great Dragons are creatures of flame \u2013 they live the stuff, breath the stuff. Oh, and please send me pictures of the little guy once it hatches. Great Dragons are always so cute when they first hatch.",
 
 	"EQUIPMENT_GAINARMOR_NAME" : "Jade Elephant",
-	"EQUIPMENT_GAINARMOR_PICKUP" : "Become Chad and gain 500 armor for 5 sec.",
+	"EQUIPMENT_GAINARMOR_PICKUP" : "Become a <color=#009933>Chad</color> and gain 500 armor for 5 seconds!",
 	"EQUIPMENT_GAINARMOR_DESC" : "Gain <style=cIsDamage>500 armor</style> for <style=cIsUtility>5 seconds.</style>",
 	"EQUIPMENT_GAINARMOR_LORE": "Excerpt from the folk tale \"Clean as Jade\":\r\n\r\n\u201C... and while the peasants braced for the advancement of the Emperor\u2019s army, the stone carver finished her last strike on the giant sculpture. The clang of the flat tool against the beautiful, translucent green sheen of the solid surface echoed through the trees and around all the villagers. Their souls were cleansed and made whole by the heavenly stone, now formed into the imposing presence of an elephant.\r\n\r\nDetermination and resolve had essentially been carved into the very spirit of the ones, who, just moments ago were clutching their farming implements and make-shift weapons with trembling hands. The attack was repelled that day. The Emperor\u2019s army told stories about their metal weapons bouncing off the cloth of commoners. This inspiring encounter spread to other villages and...\u201D\r\n",
 
@@ -180,17 +180,17 @@
 	"EQUIPMENT_LUNARPORTALONUSE_LORE" : "This is a placeholder. write something sad here :(",
 
 	"EQUIPMENT_VENDINGMACHINE_NAME" : "Remote Caffeinator",
-	"EQUIPMENT_VENDINGMACHINE_PICKUP" : "Request SCP-294 from your ship.",
+	"EQUIPMENT_VENDINGMACHINE_PICKUP" : "Request an SCP-294 from your ship.",
 	"EQUIPMENT_VENDINGMACHINE_DESC" : "Request an <style=cIsDamage>Eclipse Zero Vending Machine</style> from the <style=cIsDamage>UES Safe Travels</style>. Delivery guaranteed in <style=cIsUtility>5 seconds</style>, dealing <style=cIsDamage>2000% damage</style>. <style=cIsHealing>Heal</style> up to 3 targets for <style=cIsHealing>25% of their maximum health</style>.",
 	"EQUIPMENT_VENDINGMACHINE_LORE" : "\"I sure am thirsty,\" Chen said as he filled a Lemurian with bullets.\n\nLuckily for him, he had found an Eclipse Remote Caffeinator aboard his vessel. Reaching in his pocket, Chen pressed the button marked with the Eclipse logo, and many systems began to whirr to life.\n\nHigh up in the atmosphere, a panel on the hull of the UES Safe Travels slid open with a clunk. Ready to be ejected, an Eclipse Zero Vending Machine (c2038) twinkled valiantly. Silently, the vending machine began its journey down to the surface.\n\nBack down on the planet, Chen was starting to run low on ammunition, and the Lemurians were closing in. But, just when the Lemurians were ready to tear Chen apart, who else but the Eclipse Zero Vending Machine came crashing down, squishing the Lemurians into a fine paste. Climbing up a mound of dead Lemurians, Chen entered 5 standard credits into the machine and ordered his favorite beverage, courtesy of the Eclipse Company. \"Wow, refreshing and life-saving! Eclipse, quenching thirsts no matter where you are!\" Chen smiled, grateful for Eclipse's galaxy-wide service and quality assurance.\n\n<style=cMono>This log entry was brought to you by Eclipse: The Galactic Quencher</style>",
 
-	"EQUIPMENT_GUMMYCLONE_NAME" : "Wooden dummy",
+	"EQUIPMENT_GUMMYCLONE_NAME" : "Best Friend",
 	"EQUIPMENT_GUMMYCLONE_PICKUP" : "Create a copy of the <b>shit</b> that you are.",
 	"EQUIPMENT_GUMMYCLONE_DESC" : "Spawn a gummy clone that has <style=cIsDamage>700% damage</style> and <style=cIsHealing>700% health</style>. Expires in <style=cIsUtility>30</style> seconds.",
 	"EQUIPMENT_GUMMYCLONE_LORE" : "<style=cMono>//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</style>\n\n\"I'm telling you, you need to be more strict with your little slime project, dude. I caught him rummaging through my stuff earlier. You know how hard it is to get stains out of these UES uniforms? \"\n\n\"His NAME is Goobo Jr., thank you very much. And I'm sure he was just playing. He likes his uncle Rich, isn't that right, Goobo?\"\n\n\"It doesn't have vocal chords, Mike.\"\n\n\"You don't have vocal chords.\"\n\n\"Real mature. Anyway, you better stop messing around, or the Captain will send that slime ball to the front lines. Now, I got to go do my job. Y'know, what we were sent here for, not playing dollhouse with your science project' over here.\"\n\n\"Yeah, yeah... Alright, he's gone. Hey Goobo, listen up. You got a good look at Rich, right? I got an idea to knock him down a few notches. First, you gotta take on his shape, and then...\"\n\n<style=cMono>[THIS LOG HAS BEEN FLAGGED FOR REVIEW AS PART OF: COURT MARTIAL OF RICHARD D. BAGGINS]</style>",
 
 	"EQUIPMENT_BOSSHUNTER_NAME" : "Funni Ghost Gun",
-	"EQUIPMENT_BOSSHUNTER_PICKUP" : "<style=cIsDamage>OH BOI FREE BOSS ITEM</style>.",
+	"EQUIPMENT_BOSSHUNTER_PICKUP" : "<style=cIsDamage><b>OH BOI</b> FREE BOSS ITEM</style>",
 	"EQUIPMENT_BOSSHUNTER_DESC" : "<style=cIsDamage>Execute</style> any enemy capable of spawning a <style=cIsDamage>unique reward</style>, and it will drop that <style=cIsDamage>item</style>. Equipment is <style=cIsUtility>consumed</style> on use.",
 	"EQUIPMENT_BOSSHUNTER_LORE" : "\"I've always thought,\" said Rainsford, \"that the Bighorn Bison is the most dangerous of all big game.\"\n\nFor a moment the general did not reply; he was smiling his curious red-lipped smile. Then he said slowly, \"No. You are wrong, sir. The Bighorn Bison is not the most dangerous big game.\" He sipped his wine. \"Here in my preserve on this planet,\" he said in the same slow tone, \"I hunt more dangerous game.\"\n\n\"...Sir?\" General Hadbury turned to Rainsford. \"Tell me, Rainsford, what makes game... dangerous?\" Rainsford thought for a moment. \"...The, er, size, sir? Big animals are often pretty tough to take down.\" Habury nodded. \"Indeed, size can be important, but that's not it. In my eye, what makes game dangerous is... intelligence.\" Hadbury met Rainsford's gaze with a twinkle in his eye.\n\n\"The best hunt is always a match of wits. Say I were to lay some traps - how would I go about disguising them so that my prize won't spot them from a mile away? It makes things so much more fun, you see.\" Hadbury turned, walking towards the railing of the balcony overlooking his reserve. \"There's no fun to the hunt, or any game for that matter, if there is no risk involved... if there is no story to the prize. That is why, dear Rainsford, my halls are decorated with the spoils of hunts that could only be described as legendary.\" Hadbury's red-lipped smile grew into a red-lined grin. \"Now get the men ready, for we are going to hunt.\"",
 
@@ -200,7 +200,7 @@
 	"EQUIPMENT_BOSSHUNTERCONSUMED_CHAT": "sex",
 
 	"EQUIPMENT_MULTISHOPCARD_NAME": "Membership Card",
-	"EQUIPMENT_MULTISHOPCARD_PICKUP": "Use Code <color=#E42121><b>IAMALONEPLEASELOVEMEPLEASEIBEGYOU</b></color> for a 10% cashback!",
+	"EQUIPMENT_MULTISHOPCARD_PICKUP": "Use Code <color=#E42121><b>IAMALONEPLEASELOVEMEPLEASEIBEGYOU</b></color> for a <style=cIsDamage>10</style>% <style=cIsDamage>cashback</style>!",
 	"EQUIPMENT_MULTISHOPCARD_DESC": "Whenever you make a gold purchase, get <style=cIsUtility>10%</style> of the spent gold back. If the purchase is a <style=cIsUtility>multishop</style> terminal, the other terminals will <style=cIsUtility>remain open</style>.",
 	"EQUIPMENT_MULTISHOPCARD_LORE" : "<style=cMono>\/\/--AUTO-TRANSCRIPTION FROM UES [Redacted] --\/\/<\/style>\r\n\r\n\"When you're on the planet, keep a look out for any loose UES Security Chests. Orders from the higher ups, we're to retrieve any and all parcels that were aboard the Contact Light and bring 'em home. When you locate them, open the Security Chest and retrieve the item within. When you've verified the contents of the chest, move out and continue with your other assignments. Understood?\"\r\n\r\n\"Sir yes sir! But how are we going to open them? They're locked tight, aren't they?\"\r\n\r\n\"A good question, soldier. Everyone, take one Executive Credit Card, then pass the tray to your next squad mate.\"\r\n\r\n\"E-Executive cards...? Aren't these only used by like, super rich folks? How are we ever going to pay it back?\"\r\n\r\n\"What? No. You don't pay it back.\"\r\n\r\n\"But aren't we borrowing money?\"'\r\n\r\n\"Yes.\"\r\n\r\n\"So don't we have to pay it back, eventually?\"\r\n\r\n\"Yes, with another card.\"\r\n\r\n\"Sir, I don't understand.\"\r\n\r\n\"No, you just uh... well you see, the way these cards work is that, uh... [?] well you can take out a low-interest loan to... the buying power of debt is...[??]\"\r\n\r\n<style=cMono>\/\/--TRANSCRIPTION UNINTELLIGIBLE --\/\/<\/style>",
 	}

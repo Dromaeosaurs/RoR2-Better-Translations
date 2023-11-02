@@ -174,7 +174,7 @@
 		"OPTION_EXP_AND_MONEY_EFFECTS_DESCRIPTION": "Enables particle effects for experience and money.",
 
 		"OPTION_DETAILED_DESCRIPTION" : "Detailed Item Descriptions",
-		"OPTION_DETAILED_DESCRIPTION_DESCRIPTION" : "Enables detailed Item and Equipment descriptions in-game.",
+		"OPTION_DETAILED_DESCRIPTION_DESCRIPTION" : "Enables detailed Item and Equipment descriptions in-game, get's rid of funni translations.",
 
 		"OPTION_SCREEN_DISTORTION" : "Screen Distortion",
 		"OPTION_SCREEN_DISTORTION_DESCRIPTION" : "Enables screen distortion effects in-game.",

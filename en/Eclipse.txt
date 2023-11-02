@@ -2,7 +2,7 @@
     "strings":
     {
        "ECLIPSE_GAMEMODE_NAME" : "Eclipse",
-	   "ECLIPSE_GAMEMODE_DESCRIPTION" : "<style=cIsUtility>Eclipse</style> is a gamemode that adds stacking challenge modifiers to your run.\n\nEach time you <style=cIsUtility>beat the game</style>, your Eclipse level <style=cIsUtility>permanently increases</style> with that Survivor, up to a maximum of <style=cIsUtility>8</style> times.",
+	   "ECLIPSE_GAMEMODE_DESCRIPTION" : "The more you win, the <style=cIsUtility>harder</style> your runs will get!\nYou start at baseline <color=##cc0000>Monsoon</color> difficulty.",
 	   "ECLIPSE_GAMEMODE_START" : "Start Eclipse",
 
 	   "ECLIPSE_1_NAME" : "Eclipse (1)",
@@ -12,7 +12,7 @@
 	   "ECLIPSE_5_NAME" : "Eclipse (5)",
 	   "ECLIPSE_6_NAME" : "Eclipse (6)",
 	   "ECLIPSE_7_NAME" : "Eclipse (7)",
-	   "ECLIPSE_8_NAME" : "Eclipse (8)",
+	   "ECLIPSE_8_NAME" : "8 Already?!",
 	   "ECLIPSE_1_DESCRIPTION" : "Starts at baseline Monsoon difficulty.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Ally Starting Health: <style=cIsHealth>-50%</style></style>",
 	   "ECLIPSE_2_DESCRIPTION" : "Starts at baseline Monsoon difficulty.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Ally Starting Health: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Teleporter Radius: <style=cIsHealth>-50%</style></style>",
 	   "ECLIPSE_3_DESCRIPTION" : "Starts at baseline Monsoon difficulty.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Ally Starting Health: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Teleporter Radius: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Ally Fall Damage: <style=cIsHealth>+100% and lethal</style></style>",
