@@ -16,7 +16,7 @@ This is the 5th or 6th iteration of my english translations for RoR2, previous o
  
  -If you want to get rid of them, just verify game's files.
 
-# Instalation
+# Installation
 
 **Windows:** unpack zip in _(game's library)_\Risk of Rain 2_Data\StreamingAssets\Language
 
