@@ -1,4 +1,4 @@
-# RoR2-Better-Translations
+# RoR2-Better-Translations - Currently Depracated!
 
 This is the 5th or 6th iteration of my english translations for RoR2, previous ones were either:
  
